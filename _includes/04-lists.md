@@ -1,0 +1,4 @@
+- [ ] Learn new skill
+- [ ] Practice new skill
+  - [ ] Integrate new skill with other skills
+- [ ] Add skill to resume
