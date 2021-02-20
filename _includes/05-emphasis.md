@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Front end web developer_ with experience in **HTML**, **CSS**, **SCSS/SASS**, **Javascript**, **PHP**, WordPress, React, GitHub.
